@@ -30,6 +30,6 @@ Install required Python libraries
 Load the dataset
 Run the Jupyter notebooks
 Execute SQL scripts on your database
-Open the Power BI file to view the dashboard
+Open the Power BI file to view the dashboard.
 License
 MIT License
